@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Gabriel</h1>
-<h3 align="center">Interesse na área de Big Data e ligado no 220 nos estudos de Ciência de Dados</h3>
+<h3 align="center">Estudando na área de TI com foco atualmente em Big Data e Ciência de Dados</h3>
 
 - - 🌱Atualmente estou estudando **Python, Machine Learing, Análise de dados, Big Data**
 
