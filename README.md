@@ -1,9 +1,8 @@
 <h1 align="center">Oi 👋, Eu sou o Gabriel</h1>
-<h3 align="center">Estudando na área de TI com foco atualmente em Big Data e Ciência de Dados</h3>
+<h3 align="center">Estudando na área de TI com foco em Sistemas</h3>
 
-- - 🌱Atualmente estou estudando **Python, Machine Learing, Análise de dados, Big Data**
+- - 🌱Atualmente estou estudando **Front-End com React**
 
-- Projeto de análise de dados pokémon [clicando aqui](https://github.com/gabrielmoraes0/analise_dados_pokemon/tree/main)
 
 - Você me acha através do e-mail **gabrieltrabalho96@hotmail.com**
 
